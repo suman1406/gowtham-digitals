@@ -31,7 +31,7 @@ const App: React.FC = () => {
       `🚀 _Looking forward to working with Gowtham Digitals!_`;
 
     // WhatsApp business number (from contact section)
-    const whatsappNumber = '7842324252'; // +91 78423 24252 without +91 and spaces
+    const whatsappNumber = '7989538551'; // +91 78423 24252 without +91 and spaces
 
     // Create WhatsApp URL
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
@@ -191,7 +191,7 @@ const App: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-bold uppercase mb-1 group-hover:text-gold-500 transition-colors">Call for Estimates</h4>
-                    <p className="text-gray-400">+91 78423 24252</p>
+                    <p className="text-gray-400">+91 79895 38551</p>
                   </div>
                 </div>
 
