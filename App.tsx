@@ -143,7 +143,10 @@ const App: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-bold uppercase mb-1 group-hover:text-gold-500 transition-colors">Visit Our Workshop</h4>
-                    <p className="text-gray-400">123 Industrial Avenue, Tech District<br/>Chennai, Tamil Nadu</p>
+                    <p className="text-gray-400">
+                      Metro Station, LB Nagar — 3-6-65 & 66, Near Siri Nagar, Opp. Pillar No. 1668<br/>
+                      Hyderabad, Telangana 500074
+                    </p>
                   </div>
                 </div>
                 
@@ -153,7 +156,7 @@ const App: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-bold uppercase mb-1 group-hover:text-gold-500 transition-colors">Call for Estimates</h4>
-                    <p className="text-gray-400">+91 98765 43210</p>
+                    <p className="text-gray-400">+91 78423 24252</p>
                   </div>
                 </div>
 
