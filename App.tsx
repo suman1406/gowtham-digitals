@@ -169,7 +169,7 @@ const App: React.FC = () => {
                   <div>
                     <h4 className="text-white font-bold uppercase mb-1 group-hover:text-gold-500 transition-colors">Visit Our Workshop</h4>
                     <p className="text-gray-400 mb-3">
-                      Metro Station, LB Nagar — 3-6-65 & 66, Near Siri Nagar,<br /> Opp. Pillar No. 1668
+                      LB Nagar Metro Station — 3-6-65 & 66, Near Siri Nagar,<br /> Opp. Pillar No. 1668
                       Hyderabad, Telangana 500074
                     </p>
                     <a
